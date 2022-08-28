@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Chandana Rajesh"
   avatar : "/assets/images/chandana_profile_pic.jpeg"
-  bio    : "PhD student at Stony Brook University TEST1"
+  bio    : "PhD student at Stony Brook University TEST2"
   location    : "New York, USA"
   links:
     - label: "GitHub"
