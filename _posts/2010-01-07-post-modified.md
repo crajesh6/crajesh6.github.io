@@ -1,14 +1,17 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title:
+last_modified_at:
 categories:
-  - Blog
+
 tags:
-  - Post Formats
-  - readability
-  - standard
+
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+I am a first-year Ph.D. student advised by Peter Koo at Cold Spring Harbor Laboratory, within the Computational Biology department at Stony Brook University. Prior to starting my Ph.D., I obtained my B.S. in Biology and Computer Science at Stony Brook University.
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+# Interests
+All of our cells endure a perpetual onslaught of carcinogens mutating the genome. When a mutation disables the cell’s regulatory mechanisms, the cell divides uncontrollably, promoting the first step—of many—in tumorigenesis. For many patients, tumors are already formed by the time they can be detected. But what if we can intervene in any of the steps before the tumor is fully formed, when it is vastly more treatable? For me, this question was the tipping point in my decision to pursue computational biology.
+
+The question asked above is a question of resolution. In order to find an earlier point of intervention, we have to resolve each cellular component in the affected pathway that produces the aberrant signal. However, the signaling pathways in the cell are incredibly intricate and dense. The majority of these pathways are abstracted from us, as they are physically impossible to observe. However, by developing computational models, we can simulate these pathways and approximate the response to changes to cellular components.
+
+I am interested in unearthing these pathways, specifically from the context of epigenomic regulation. To me, the impact of understanding this genetic circuitry at a molecular level unravels the mysteries of life, from understanding fundamental questions about our evolution to advancing medicine. And if we can understand how to control the circuitry of our bodies, we might be able to repair birth defects, regenerate organs, and perhaps one day beat cancer and aging.
