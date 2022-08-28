@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: https://crajesh6.github.io/ # /about/
 title: "About"
 ---
 

@@ -6,6 +6,6 @@ main:
   # - title: "Tags"
   #   url: /tags/
   - title: "About"
-    url: /about/
+    url: https://crajesh6.github.io/ #/about/
   - title: "Research Highlights"
     url: /research_highlights/
