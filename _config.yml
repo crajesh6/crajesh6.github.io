@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Chandana Rajesh"
+  name   : "Chandana Rajesh TEST"
   avatar : "/assets/images/chandana_profile_pic.jpeg"
   bio    : "PhD student at Stony Brook University"
   location    : "New York, USA"
