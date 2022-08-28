@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -78,18 +78,18 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-   # - label: "ORCID"
-   #      icon: "fab fa-fw fa-orcid"
-   #      url: "https://orcid.org/0000-0002-5544-7577"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ckochath/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+   #  - label: "GitHub"
+   #    icon: "fab fa-fw fa-github"
+   #    url: "https://github.com/"
+   # # - label: "ORCID"
+   # #      icon: "fab fa-fw fa-orcid"
+   # #      url: "https://orcid.org/0000-0002-5544-7577"
+   #  - label: "Twitter"
+   #    icon: "fab fa-fw fa-twitter-square"
+   #    url: "https://twitter.com/ckochath/"
+   #  # - label: "Instagram"
+   #  #   icon: "fab fa-fw fa-instagram"
+   #  #   url: "https://instagram.com/"
 
 defaults:
   # # _posts
@@ -105,7 +105,7 @@ defaults:
   #     related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: "" #"_pages"
       type: pages
     values:
       layout: single
